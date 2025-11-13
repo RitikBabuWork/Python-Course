@@ -1,0 +1,5 @@
+print("Hello world")
+print("Welcome to Python Programming")
+print("This is HelloWorld.py file")
+print("Have a great day!")
+print("Goodbye!")
