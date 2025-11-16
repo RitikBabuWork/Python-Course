@@ -2,6 +2,16 @@
 # File Name: Chapter_5.py
 print("Chapter 5: Type Conversion in Python.\n")
 
+# Type Conversion:
+# Converting a value from one data type to another (e.g., int, float, str, bool).
+# Implicit conversion: Python automatically converts compatible types (e.g., int -> float).
+# Explicit conversion (casting): use conversion functions like int(), float(), str(), bool(), chr(), ord().
+# Notes:
+# - Converting float -> int truncates the fractional part (possible precision loss).
+# - Some conversions are invalid and raise errors (e.g., int("abc") -> ValueError).
+# - bool conversion: 0 and empty containers/strings -> False, all other values -> True.
+# - ord(char) gives Unicode code point; chr(code) gives character for a Unicode code point.
+
 """
 ***** Questions On – type conversion *****
 
