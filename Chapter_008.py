@@ -22,7 +22,9 @@ print("Solution of question-1")
 amount = int(input("Enter amount here : "))
 months = int(input("Enter months here : "))
 interest = int(input("Enter interest here : "))
-print("The interest is : ", (amount * months * interest) / 100)
+interestAmount = (amount * months * interest) / 100
+print("The interest is : ", interestAmount)
+print("Final amount with interest is : ", (amount+interestAmount))
 
 # Answer-2:
 print("\nSolution of question-2")

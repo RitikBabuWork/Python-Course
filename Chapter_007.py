@@ -8,8 +8,7 @@ print("Chapter 7: Taking input from the User in Python.\n")
     Questions:
 
         1-> Write a python script to take your name as input from the user and then print it.
-        2-> Write a python script to take input two numbers from the user, then calculate their sum and display the
-            result.
+        2-> Write a python script to take input two numbers from the user, then calculate their sum and display the result.
         3-> Write a python script which take the radius from the user and display area of the circle.
         4-> Write a python script to calculate square of a number. Number is entered by the user.
         5-> Write a python script which takes a character from the user and display its Unicode.
