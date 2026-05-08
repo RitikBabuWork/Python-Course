@@ -1,0 +1,1 @@
+ Python 3.10 version, there are total 36 keywords.
